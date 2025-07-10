@@ -39,24 +39,24 @@ My name is Yawo Sadji and I have a strong passion for software development. I've
 ### Project 1: Titan Store (An Inventory Fullstack Application)
 
 [Link to Repo](https://github.com/KLY-Titans/inventory-app)
-See full details here: [Project 1: Inventory Fullstack Application](TitanStore1.md)
+See full details here: [Project 1: Inventory Fullstack Application](1TitanStore.md)
 
 ### Project 2: TEAMCRM (A CRM Website built for small teams)
 
 [Link to Repo](https://github.com/YawoSadji/TeamCRM)
-See full details here: [Project 2: CRM Website](TeamCRM2.md)
+See full details here: [Project 2: CRM Website](2TeamCRM.md)
 
 ### Project 3: DjangoStore (An E-commerce Store API)
 
 [Link to Repo](https://github.com/Django-KRYers/Django-Store)
-See full details here: [Project 3: E-commerce Store API](Django-Store3.md)
+See full details here: [Project 3: E-commerce Store API](3Django-Store.md)
 
 ### Project 4: SOX-Chatbot(An AI Chatbot that educates on Sarbanes-Oxley(SOX) Compliance)
 
 [Link to Repo](https://github.com/YawoSadji/SOX-Chatbot)
-See full details here: [Project 4: AI Chatbot](SOX-chatbot4.md)
+See full details here: [Project 4: AI Chatbot](4SOX-chatbot.md)
 
 ### Project 5: RestaurantChatbot(A restaurant chatbot that takes orders)
 
 [Link to Repo](https://github.com/YawoSolo/RestaurantChatbot)
-See full details here: [Project 5: AI restaurant Chatbot](RestaurantChatbot5.md)
+See full details here: [Project 5: AI restaurant Chatbot](5RestaurantChatbot.md)
