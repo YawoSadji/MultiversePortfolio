@@ -25,11 +25,6 @@ This repository showcases the Five major projects I've worked on during my bootc
 
 - [About Me](#about-me)
 - [My Five major projects](#major-projects)
-  - [Project 1: Inventory fullstack application(Titan Store)](#project-1-inventory-app)
-  - [Project 2: CRM Website](#project-2-crmwebsite)
-  - [Project 3: DjangoStore an E-commerce Store API](#project-3-DjangoStore)
-  - [Project 4: AI Chatbot that educates on SOX Compliance SOXBOT](#project-4-soxbot)
-  - [Project 5: AI Restaurant Chatbot that takes restaurant orders](#project-5-restaurantchatbot)
 
 ---
 
@@ -41,14 +36,27 @@ My name is Yawo Sadji and I have a strong passion for software development. I've
 
 ## Major Projects
 
-### Project 1: Inventory fullstack application
+### Project 1: Titan Store (An Inventory Fullstack Application)
 
 [Link to Repo](https://github.com/KLY-Titans/inventory-app)
-**Description:**
-This is a shop application where users can view a variety of items and their prices. The app provide a clean interface for browsing items and displays detailed information about each item. Users can search for items using a search bar that queries the name and description of products.
+See full details here: [Project 1: Inventory Fullstack Application](TitanStore1.md)
 
-**Key Features:**
+### Project 2: TEAMCRM (A CRM Website built for small teams)
 
-The app provide a clean interface for browsing items and displays detailed information about each item. Users can search for items using a search bar that queries the name and description of products.
+[Link to Repo](https://github.com/YawoSadji/TeamCRM)
+See full details here: [Project 2: CRM Website](TeamCRM2.md)
 
----
+### Project 3: DjangoStore (An E-commerce Store API)
+
+[Link to Repo](https://github.com/Django-KRYers/Django-Store)
+See full details here: [Project 3: E-commerce Store API](Django-Store3.md)
+
+### Project 4: SOX-Chatbot(An AI Chatbot that educates on Sarbanes-Oxley(SOX) Compliance)
+
+[Link to Repo](https://github.com/YawoSadji/SOX-Chatbot)
+See full details here: [Project 4: AI Chatbot](SOX-chatbot4.md)
+
+### Project 5: RestaurantChatbot(A restaurant chatbot that takes orders)
+
+[Link to Repo](https://github.com/YawoSolo/RestaurantChatbot)
+See full details here: [Project 5: AI restaurant Chatbot](RestaurantChatbot5.md)
