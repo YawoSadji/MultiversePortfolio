@@ -9,15 +9,19 @@ This repository showcases the Five major projects I've worked on during my bootc
     - Duration: 12 months
     - [Link to deployed Portfolio Website](https://yawosadji.github.io/MultiversePortfolio/)
 
-        During my apprenticeship at Verizon, I had the opportunity to work on some Java/ Springboot codebase for the SOX compliance team.
-            - API integration
-            - API data troubleshooting
-            - Improved codebase to increase process efficiency
-        I also learned RPA development using UiPath and built automations for my team.
-            - Transformed Business requirements into PDD(Process Definition Document)
-            - Built strong and efficient code using the ReFramework
-            - Built tests
-    My biggest impact during this apprenticeship was reducing my team's manual effort and risk of human error in our processes and saving thousand of hours with our automations.
+During my apprenticeship at Verizon, I had the opportunity to work on some Java/Springboot codebase for the SOX compliance team:
+
+- API integration
+- API data troubleshooting
+- Improved codebase to increase process efficiency
+
+I also learned RPA development using UiPath and built automations for my team:
+
+- Transformed Business requirements into PDD (Process Definition Document)
+- Built strong and efficient code using the ReFramework
+- Built tests
+
+My biggest impact during this apprenticeship was reducing my team's manual effort and risk of human error in our processes and saving thousands of hours with our automations.
 
 ---
 
