@@ -7,7 +7,7 @@ This repository showcases the Five major projects I've worked on during my bootc
 
     - Host Company: Verizon
     - Duration: 12 months
-    - [Link to deployed Portfolio Website](To add)
+    - [Link to deployed Portfolio Website](https://yawosadji.github.io/MultiversePortfolio/)
 
         During my apprenticeship at Verizon, I had the opportunity to work on some Java/ Springboot codebase for the SOX compliance team.
             - API integration
